@@ -15,4 +15,3 @@ read the next time the file is opened.
 3. How to compile C++ from command line & through a makefile.
 6. What Unix is.
 7. Command line experience.
-8. Terminal based text editor experience.
